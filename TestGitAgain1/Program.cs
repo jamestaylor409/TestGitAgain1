@@ -11,6 +11,7 @@ namespace TestGitAgain1
             Console.WriteLine("Hmm let's try again!");
             Console.WriteLine("It worked!");
             Console.WriteLine("Will try is sync is needed after commit!");
+            Console.WriteLine("Let's see if there is a push in VS");
         }
     }
 }
