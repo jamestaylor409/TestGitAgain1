@@ -7,6 +7,8 @@ namespace TestGitAgain1
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Did this save?");
+            Console.WriteLine("Hmm let's try again!");
         }
     }
 }
