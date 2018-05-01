@@ -9,6 +9,7 @@ namespace TestGitAgain1
             Console.WriteLine("Hello World!");
             Console.WriteLine("Did this save?");
             Console.WriteLine("Hmm let's try again!");
+            Console.WriteLine("It worked!");
         }
     }
 }
